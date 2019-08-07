@@ -1,0 +1,17 @@
+#respostaConsulta {
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  border-collapse: collapse;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 18%;
+}
+
+#respostaConsulta td{
+  border: 1px solid grey;
+  padding: 8px;
+}
+
+#respostaConsulta tr:nth-child(even){
+    background-color: #E7E6E6;
+}
